@@ -41,7 +41,7 @@ export const projectsData = [
     title: 'ITESA Website',
     info: 'ITESA is a community of students from D.Y Patil College Of Engineering Akurdi - Information Technology Depaartment with Diverse Fields including but not limited to Technical cultural Management Etc',
     info2: 'This is the community website of ITESA',
-    url: 'https://testmode-itesa.web.app/',
+    url: 'https://itesa-dypcoe.netlify.app/',
     repo: 'https://github.com/restrictedcodex', // if no repo, the button will not show up
   },
   {
